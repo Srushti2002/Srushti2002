@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<table>
+<table style="width:100%">
 <tr>
   <th>C</th>
   <th>C++</th>
