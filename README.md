@@ -1,7 +1,5 @@
 <h1>Hello Everyone!!! 🤟</h1>
-<br>
-<hr>
-<br>
+
 
 🔭 I’m currently working on web development
 
