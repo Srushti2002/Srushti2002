@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<table>
+<!--table>
 <tr>
   <th>C</th>
   <th>C++</th>
@@ -66,7 +66,8 @@ Here are some ideas to get you started:
  
  
   </tr>
-</table>
+</table-->
+
 
 
 
