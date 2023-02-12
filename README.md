@@ -62,8 +62,7 @@ Here are some ideas to get you started:
     <td><img src="" alt="pandas"></td>
     <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="Scikit-learn"></td>
     <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="scipy"></td>
-    <td><img src="https://user-images.githubusercontent.com/91448978/218304372-526dda59-ee59-4e50-b4c4-005822c550a7.png
-" alt="tensorflow"></td>
+    <td><img src="https://user-images.githubusercontent.com/91448978/218304372-526dda59-ee59-4e50-b4c4-005822c550a7.png" alt="tensorflow"></td>
  
  
   </tr>
