@@ -54,13 +54,12 @@ Here are some ideas to get you started:
   <td><img src="https://user-images.githubusercontent.com/91448978/218304132-979c44f5-8817-4c32-bff4-e77e23bb3e5f.png" alt="python"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218304163-757c82a9-d655-4fee-99da-f3f52652dd7c.png" alt="openCV"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218304270-c7c0ad81-8332-49a3-ac37-c87606b8b86e.png" alt="R lang"></td>
-  <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="numpy"></td>
-  <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="pandas"></td>
-  <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="Scikit-learn"></td>
-  <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="scipy"></td>
+  <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnumpy.org%2F&psig=AOvVaw1cSpdxt1e47APry-t58h26&ust=1676312245115000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDiu_DLkP0CFQAAAAAdAAAAABAE" alt="numpy"></td>
+  <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpandas.pydata.org%2Fabout%2Fciting.html&psig=AOvVaw2BfXmnD0zvQ-UCRuP3Jvn1&ust=1676312284241000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODG6YPMkP0CFQAAAAAdAAAAABAE" alt="pandas"></td>
+  <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eticj&psig=AOvVaw2ygrJ_4WBD1kH_xFhYlBpy&ust=1676312301342000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjNsovMkP0CFQAAAAAdAAAAABAE" alt="Scikit-learn"></td>
+  <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-coewd&psig=AOvVaw3iFa-Z-GnGZ564HLeYJ68y&ust=1676312330312000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNj2ipnMkP0CFQAAAAAdAAAAABAJ" alt="scipy"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218304372-526dda59-ee59-4e50-b4c4-005822c550a7.png" alt="tensorflow"></td>
- 
- 
+  
   </tr>
 </table>
 
