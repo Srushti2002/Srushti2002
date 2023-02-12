@@ -20,25 +20,25 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<table style="width:100%">
+<table >
 <tr>
-  <th>C</th>
-  <th>C++</th>
-  <th>HTML</th>
-  <th>CSS</th>
-  <th>JAVASCRIPT</th>
-  <th>BOOTSTRAP</th>
-  <th>REACT</th>
-  <th>NPM</th>
-  <th>NODEJS</th>
- <th>PYTHON</th>
-  <th>OPENCV</th>
-  <th>R</th>
-  <th>NUMPY</th>
-  <th>PANDAS</th>
-  <th>SCIKIT-LEARN</th>
-  <th>SCIPY</th>
-  <th>TENSORFLOW</th>
+  <th style="width:100%">C</th>
+  <th style="width:100%">C++</th>
+  <th style="width:100%">HTML</th>
+  <th style="width:100%">CSS</th>
+  <th style="width:100%">JAVASCRIPT</th>
+  <th style="width:100%">BOOTSTRAP</th>
+  <th style="width:100%">REACT</th>
+  <th style="width:100%">NPM</th>
+  <th style="width:100%">NODEJS</th>
+ <th style="width:100%">PYTHON</th>
+  <th style="width:100%">OPENCV</th>
+  <th style="width:100%">R</th>
+  <th style="width:100%">NUMPY</th>
+  <th style="width:100%">PANDAS</th>
+  <th style="width:100%">SCIKIT-LEARN</th>
+  <th style="width:100%">SCIPY</th>
+  <th style="width:100%">TENSORFLOW</th>
   
   </tr>
 <tr>
