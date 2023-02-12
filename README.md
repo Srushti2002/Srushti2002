@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<table >
+<table>
 <tr>
-  <th style="width:1000px">C</th>
+  <th style="width:100px">C</th>
   <th style="width:100px">C++</th>
   <th style="width:100px">HTML</th>
   <th style="width:100px">CSS</th>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
   </tr>
 <tr>
-  <td><img src="https://user-images.githubusercontent.com/91448978/218302699-c835fe6c-6f79-4f79-8d49-486873b3603d.png" alt="C"></td>
+  <td><img src="https://user-images.githubusercontent.com/91448978/218302699-c835fe6c-6f79-4f79-8d49-486873b3603d.png" alt="C" style="width:100px"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303286-a687e8df-d6b9-43ec-a24a-cafb4135a510.png" alt="C++"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303424-dce2eee9-5377-49f0-a120-bd76f13fe602.png" alt="HTML"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303446-bac1f901-72c6-4bcf-96ae-a59b72859bfd.png" alt="CSS3"></td>
