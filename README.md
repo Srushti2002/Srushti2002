@@ -22,23 +22,23 @@ Here are some ideas to get you started:
 
 <table >
 <tr>
-  <th style="width:100%">C</th>
-  <th style="width:100%">C++</th>
-  <th style="width:100%">HTML</th>
-  <th style="width:100%">CSS</th>
-  <th style="width:100%">JAVASCRIPT</th>
-  <th style="width:100%">BOOTSTRAP</th>
-  <th style="width:100%">REACT</th>
-  <th style="width:100%">NPM</th>
-  <th style="width:100%">NODEJS</th>
- <th style="width:100%">PYTHON</th>
-  <th style="width:100%">OPENCV</th>
-  <th style="width:100%">R</th>
-  <th style="width:100%">NUMPY</th>
-  <th style="width:100%">PANDAS</th>
-  <th style="width:100%">SCIKIT-LEARN</th>
-  <th style="width:100%">SCIPY</th>
-  <th style="width:100%">TENSORFLOW</th>
+  <th style="width:100px">C</th>
+  <th style="width:100px">C++</th>
+  <th style="width:100px">HTML</th>
+  <th style="width:100px">CSS</th>
+  <th style="width:100px">JAVASCRIPT</th>
+  <th style="width:100px">BOOTSTRAP</th>
+  <th style="width:100px">REACT</th>
+  <th style="width:100px">NPM</th>
+  <th style="width:100px">NODEJS</th>
+  <th style="width:100px">PYTHON</th>
+  <th style="width:100px">OPENCV</th>
+  <th style="width:100px">R</th>
+  <th style="width:100px">NUMPY</th>
+  <th style="width:100px">PANDAS</th>
+  <th style="width:100px">SCIKIT-LEARN</th>
+  <th style="width:100px">SCIPY</th>
+  <th style="width:100px">TENSORFLOW</th>
   
   </tr>
 <tr>
