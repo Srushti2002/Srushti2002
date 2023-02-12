@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Tech Stack 💻</h1>
+<!--h1>Tech Stack 💻</h1-->
 
 <!--table>
 <tr>
@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <th>SCIKIT-LEARN</th>
   <th>SCIPY</th>
   <th>TENSORFLOW</th>
-  
   
   </tr>
 <tr>
