@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<table style="width:100%">
+<table>
 <tr>
-  <th>  C  </th>
-  <th>  C++   </th>
+  <th style="width:70%">C</th>
+  <th style="width:70%"> C++</th>
   <th>HTML</th>
   <th>CSS</th>
   <th>JAVASCRIPT</th>
