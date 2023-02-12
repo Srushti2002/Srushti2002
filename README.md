@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <table >
 <tr>
-  <th style="width:100px">C</th>
+  <th style="width:1000px">C</th>
   <th style="width:100px">C++</th>
   <th style="width:100px">HTML</th>
   <th style="width:100px">CSS</th>
