@@ -1,4 +1,4 @@
-Hello Everyone!!! 🤟
+<b> Hello Everyone!!! 🤟</b>
 
 🔭 I’m currently working on web development
 
