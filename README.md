@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <table style="width:100%">
 <tr>
-  <th>C</th>
-  <th>C++</th>
+  <th>  C  </th>
+  <th>  C++   </th>
   <th>HTML</th>
   <th>CSS</th>
   <th>JAVASCRIPT</th>
