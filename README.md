@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<p>![image](https://user-images.githubusercontent.com/91448978/218302699-c835fe6c-6f79-4f79-8d49-486873b3603d.png)
-<p>
+<img src="https://user-images.githubusercontent.com/91448978/218302699-c835fe6c-6f79-4f79-8d49-486873b3603d.png" alt="C">
+
 
