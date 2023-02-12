@@ -20,29 +20,29 @@ Here are some ideas to get you started:
 -->
 <h1>Tech Stack 💻</h1>
 
-<table>
+<table style="width:100%">
 <tr>
-  <th style="width:100px">C</th>
-  <th style="width:100px">C++</th>
-  <th style="width:100px">HTML</th>
-  <th style="width:100px">CSS</th>
-  <th style="width:100px">JAVASCRIPT</th>
-  <th style="width:100px">BOOTSTRAP</th>
-  <th style="width:100px">REACT</th>
-  <th style="width:100px">NPM</th>
-  <th style="width:100px">NODEJS</th>
-  <th style="width:100px">PYTHON</th>
-  <th style="width:100px">OPENCV</th>
-  <th style="width:100px">R</th>
-  <th style="width:100px">NUMPY</th>
-  <th style="width:100px">PANDAS</th>
-  <th style="width:100px">SCIKIT-LEARN</th>
-  <th style="width:100px">SCIPY</th>
-  <th style="width:100px">TENSORFLOW</th>
+  <th>C</th>
+  <th>C++</th>
+  <th>HTML</th>
+  <th>CSS</th>
+  <th>JAVASCRIPT</th>
+  <th>BOOTSTRAP</th>
+  <th>REACT</th>
+  <th>NPM</th>
+  <th>NODEJS</th>
+  <th>PYTHON</th>
+  <th>OPENCV</th>
+  <th>R LANGUAGE</th>
+  <th>NUMPY</th>
+  <th>PANDAS</th>
+  <th>SCIKIT-LEARN</th>
+  <th>SCIPY</th>
+  <th>TENSORFLOW</th>
   
   </tr>
 <tr>
-  <td><img src="https://user-images.githubusercontent.com/91448978/218302699-c835fe6c-6f79-4f79-8d49-486873b3603d.png" alt="C" style="width:100px"></td>
+  <td><img src="https://user-images.githubusercontent.com/91448978/218302699-c835fe6c-6f79-4f79-8d49-486873b3603d.png" alt="C"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303286-a687e8df-d6b9-43ec-a24a-cafb4135a510.png" alt="C++"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303424-dce2eee9-5377-49f0-a120-bd76f13fe602.png" alt="HTML"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303446-bac1f901-72c6-4bcf-96ae-a59b72859bfd.png" alt="CSS3"></td>
