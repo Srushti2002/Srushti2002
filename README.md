@@ -48,16 +48,11 @@ Here are some ideas to get you started:
   <td><img src="https://user-images.githubusercontent.com/91448978/218303424-dce2eee9-5377-49f0-a120-bd76f13fe602.png" alt="HTML"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303446-bac1f901-72c6-4bcf-96ae-a59b72859bfd.png" alt="CSS3"></td>
   <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="JS"></td>
-    <td><img src="https://user-images.githubusercontent.com/91448978/218304037-4352326c-4257-439a-92f7-da9a55e8bb4a.png
-" alt="npm"></td>
-    <td><img src="https://user-images.githubusercontent.com/91448978/218304060-ce83416b-b958-4563-9451-f92f5b5d2a20.png
-" alt="nodeJS"></td>
-    <td><img src="https://user-images.githubusercontent.com/91448978/218304132-979c44f5-8817-4c32-bff4-e77e23bb3e5f.png
-" alt="python"></td>
-    <td><img src="https://user-images.githubusercontent.com/91448978/218304163-757c82a9-d655-4fee-99da-f3f52652dd7c.png
-" alt="openCV"></td>
-    <td><img src="https://user-images.githubusercontent.com/91448978/218304270-c7c0ad81-8332-49a3-ac37-c87606b8b86e.png
-" alt="R lang"></td>
+    <td><img src="https://user-images.githubusercontent.com/91448978/218304037-4352326c-4257-439a-92f7-da9a55e8bb4a.png" alt="npm"></td>
+    <td><img src="https://user-images.githubusercontent.com/91448978/218304060-ce83416b-b958-4563-9451-f92f5b5d2a20.png" alt="nodeJS"></td>
+    <td><img src="https://user-images.githubusercontent.com/91448978/218304132-979c44f5-8817-4c32-bff4-e77e23bb3e5f.png" alt="python"></td>
+    <td><img src="https://user-images.githubusercontent.com/91448978/218304163-757c82a9-d655-4fee-99da-f3f52652dd7c.png" alt="openCV"></td>
+    <td><img src="https://user-images.githubusercontent.com/91448978/218304270-c7c0ad81-8332-49a3-ac37-c87606b8b86e.png" alt="R lang"></td>
     <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="numpy"></td>
     <td><img src="" alt="pandas"></td>
     <td><img src="https://user-images.githubusercontent.com/91448978/218303485-24153464-1387-47a2-ba10-fb3f74df98a9.png" alt="Scikit-learn"></td>
