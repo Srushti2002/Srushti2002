@@ -1,5 +1,5 @@
 #  About Me:
-- 🔭 I’m currently working on web development<br>- 🌱 I’m currently learning Machine Learning<br>
+🔭 I’m currently working on web development<br>🌱 I’m currently learning Machine Learning<br>
 
 
 ## Socials:
